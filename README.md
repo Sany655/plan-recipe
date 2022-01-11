@@ -1,5 +1,5 @@
 # Plan Reciepe
-goto [Plan Reciepe](https://mealdb-sany.netlify.app/)
+goto [Plan Reciepe](https://plan-recipe.netlify.app/)
 * used mealdb database
 * used react router
 * used tailwind css
