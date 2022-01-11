@@ -1,0 +1,5 @@
+Module 52 - react router+ tailwind
+1 - use css framework
+2 - using mealDb implement search page with react router with header navigator
+3 - implement a dynamic page of meal details
+4 - + 404 not found page
